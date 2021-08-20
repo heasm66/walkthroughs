@@ -438,9 +438,9 @@ z
 eat tablet
 get crook
 point returning at me (+5, 166)
-	If you're in 'Old Winery' then 's. s. se.'
-	If you're in 'Attic' then 's. se.'
-	If you're in 'Old Furniture' then 'se.'
+    If you're in 'Old Winery' then 's. s. se.'
+    If you're in 'Attic' then 's. se.'
+    If you're in 'Old Furniture' then 'se.'
 s
 s
 se
@@ -482,9 +482,9 @@ w
 w
 get bean pole
 point returning at me
-	If you're in 'Old Winery' then 's. s. se.'
-	If you're in 'Attic' then 's. se.'
-	If you're in 'Old Furniture' then 'se.'
+    If you're in 'Old Winery' then 's. s. se.'
+    If you're in 'Attic' then 's. se.'
+    If you're in 'Old Furniture' then 'se.'
 s
 w
 get book
@@ -700,9 +700,9 @@ priestess, tell me about fig (Remember the number of paces, two numbers (<X> and
 get returning (from rucksack)
 strike it
 point it at me
-	If you're in 'Old Winery' then 's. s. se.'
-	If you're in 'Attic' then 's. se.'
-	If you're in 'Old Furniture' then 'se.'
+    If you're in 'Old Winery' then 's. s. se.'
+    If you're in 'Attic' then 's. se.'
+    If you're in 'Old Furniture' then 'se.'
 
 [save file #8, curses_270.sav - This one contains 'in four paces and a pace'.]
 
@@ -727,9 +727,9 @@ z
 get returning (from rucksack)
 strike it
 point it at me
-	If you're in 'Old Winery' then 's. s. se.'
-	If you're in 'Attic' then 's. se.'
-	If you're in 'Old Furniture' then 'se.'
+    If you're in 'Old Winery' then 's. s. se.'
+    If you're in 'Attic' then 's. se.'
+    If you're in 'Old Furniture' then 'se.'
 s
 s
 get castle
@@ -765,9 +765,9 @@ get all
 get returning (from rucksack)
 strike it
 point it at me
-	If you're in 'Old Winery' then 's. s. se.'
-	If you're in 'Attic' then 's. se.'
-	If you're in 'Old Furniture' then 'se.'
+    If you're in 'Old Winery' then 's. s. se.'
+    If you're in 'Attic' then 's. se.'
+    If you're in 'Old Furniture' then 'se.'
 s
 s
 get star
@@ -1170,83 +1170,83 @@ Appendix A: How points are scored
 ---------------------------------
 
 a. Score for various actions 
-	 3	reading postcard
-	 7	recharging torch
-	 7	exorcism
-	10	opening secret door
-	 3	opening demijohn
-	 3	using dumbwaiter
-	 5	charging a rod
-	 5	firing a rod
-	 2	exposing radio
-	 2	sporting a daisy chain
-	 3	placating Aunt Jemima
-	50	rescuing Andromeda
-	 3	uncovering battery
-	 4	mending the plumbing
-	 6	scenting a passage
-	 6	reflecting
-	15	solving the grid
-	10	winning the orb
-	 1	buying map of Paris
-	 8	filling the arc
-	 4	getting into the well
-	 3	smoke detecting
-	 3	putting a ship in a bottle
-	 6	parachuting on deck
-	 5	sleeping in Alison's bed
-	10	opening sandstone crevice
-	 7	identifying a rod
-	 7	dislodging the watch
-	 3	hypnosis
-	 3	passing security
-	 3	restoring the Temple
-	 6	answering Homer
-	 3	summoning the oracle
-	 8	unearthing strongbox
-	 3	startling Austin
-	 3	washing away the stone
-	 7	provoking the librarians
-	 3	twisting the sphinx's nose
-	 3	depositing the quarterstaff
-	15	rising in the afterlife
-	15	reviving the knight
-	 3	encouraging the knight
-	 1	choosing a High Rod
+     3  reading postcard
+     7  recharging torch
+     7  exorcism
+    10  opening secret door
+     3  opening demijohn
+     3  using dumbwaiter
+     5  charging a rod
+     5  firing a rod
+     2  exposing radio
+     2  sporting a daisy chain
+     3  placating Aunt Jemima
+    50  rescuing Andromeda
+     3  uncovering battery
+     4  mending the plumbing
+     6  scenting a passage
+     6  reflecting
+    15  solving the grid
+    10  winning the orb
+     1  buying map of Paris
+     8  filling the arc
+     4  getting into the well
+     3  smoke detecting
+     3  putting a ship in a bottle
+     6  parachuting on deck
+     5  sleeping in Alison's bed
+    10  opening sandstone crevice
+     7  identifying a rod
+     7  dislodging the watch
+     3  hypnosis
+     3  passing security
+     3  restoring the Temple
+     6  answering Homer
+     3  summoning the oracle
+     8  unearthing strongbox
+     3  startling Austin
+     3  washing away the stone
+     7  provoking the librarians
+     3  twisting the sphinx's nose
+     3  depositing the quarterstaff
+    15  rising in the afterlife
+    15  reviving the knight
+     3  encouraging the knight
+     1  choosing a High Rod
    ---
    277
    
 b. Score for discovering rods
-	 6	Bronze
-	 6	Fire
-	 6	High Rod (Death, Life or Love)
-	 6	Husbandry
-	 6	Ice
-	 6	Infinity
-	 6	Language
-	 6	Luck
-	 6	Returning
-	 6	Returning (again in Master Game)
-	 6	Sacrifice
-	 6	Stalking
+     6  Bronze
+     6  Fire
+     6  High Rod (Death, Life or Love)
+     6  Husbandry
+     6  Ice
+     6  Infinity
+     6  Language
+     6  Luck
+     6  Returning
+     6  Returning (again in Master Game)
+     6  Sacrifice
+     6  Stalking
    ---
-	72
+    72
 
 c. Score for finding sundry items
-	 4	red table
-	 4	gothic-looking iron key
-	 4	delicate gold key
-	 4	old gardeners' gloves
-	 4	charcoal sketch
-	 4	smooth round stone*
-	 4	Ekmek Special
-	 4	inscribed stone
-	 4	gleaming amber gem
-	 4	golden astrolabe
-	 4	yellow daisy
-	 4	bluish stone
-	 4	glowing golden orb
-	 4	bunch of nuts
+     4  red table
+     4  gothic-looking iron key
+     4  delicate gold key
+     4  old gardeners' gloves
+     4  charcoal sketch
+     4  smooth round stone*
+     4  Ekmek Special
+     4  inscribed stone
+     4  gleaming amber gem
+     4  golden astrolabe
+     4  yellow daisy
+     4  bluish stone
+     4  glowing golden orb
+     4  bunch of nuts
    ---
     56
 
@@ -1256,49 +1256,49 @@ c. Score for finding sundry items
   the max score is 554 points instead of 550.
   
 d. Score for visiting various places
-	 5	Priest's Hole
-	 5	Infinity Symbol
-	 5	Unreal City
-	 5	Museum Foyer
-	 5	Ruined Castle Cafe
-	 5	Eraina Taverna
-	 5	Temple of Zeus
-	 5	Lighthouse
-	 5	Garden Stream
-	 5	Maze
-	 5	Patio in Maze
-	 5	Viewpoint Ledge
-	 5	Folly
-	 5	Behind Summer House
-	 5	Entrance
-	 5	Rough Tent
-	 5	Encampment
-	 5	Beneath Dolmen
-	 5	Universe Maintenance Room
-	 5	Jetty
-	 5	The Height of Fashion
-	 5	The Spirit World
-	 5	Quite an Undertaking
-	 5	Consulting Room
-	 5	Warehouses and Port
-	 5	The Birdcage of the Muses
-	 5	Lost inside the Palace
-	 5	Palace Balustrade
+     5  Priest's Hole
+     5  Infinity Symbol
+     5  Unreal City
+     5  Museum Foyer
+     5  Ruined Castle Cafe
+     5  Eraina Taverna
+     5  Temple of Zeus
+     5  Lighthouse
+     5  Garden Stream
+     5  Maze
+     5  Patio in Maze
+     5  Viewpoint Ledge
+     5  Folly
+     5  Behind Summer House
+     5  Entrance
+     5  Rough Tent
+     5  Encampment
+     5  Beneath Dolmen
+     5  Universe Maintenance Room
+     5  Jetty
+     5  The Height of Fashion
+     5  The Spirit World
+     5  Quite an Undertaking
+     5  Consulting Room
+     5  Warehouses and Port
+     5  The Birdcage of the Muses
+     5  Lost inside the Palace
+     5  Palace Balustrade
    ---
    140
 
 e. Score for temporary bonus
-	 5	There are eight ways to acquire the temporary bonus
-			Use fire rod at medicine bottle.
-			Give chicken bone to Austin
-			Put postcard in projector
-			Put framed charcoal sketch in projector
-			Give chocolate biscuit to aunt Jemima
-			Give gift-wrapped parcel to aunt Jemima
-			Kiss aunt Jemima
-			Wave poster [at boat in Unreal City]
+     5  There are eight ways to acquire the temporary bonus
+            Use fire rod at medicine bottle.
+            Give chicken bone to Austin
+            Put postcard in projector
+            Put framed charcoal sketch in projector
+            Give chocolate biscuit to aunt Jemima
+            Give gift-wrapped parcel to aunt Jemima
+            Kiss aunt Jemima
+            Wave poster [at boat in Unreal City]
    ---
      5
-	 
+     
    ===
-   550	Total
+   550  Total
